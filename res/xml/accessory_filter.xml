@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <usb-accessory
+        manufacturer="Gelecekonline"
+        model="ADK_LCD"
+        version="1.0" serial="0000000012345678"/>
+
+</resources>
